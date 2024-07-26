@@ -4,4 +4,4 @@ print('22222')
 
 
 class ss:
-    pass
+    print("this is new branch test")
